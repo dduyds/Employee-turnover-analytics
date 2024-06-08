@@ -30,7 +30,7 @@ The logistic regression model achieved precision of 80%, recall of 83%, f1-score
 
 **Tree-based Machine Learning**
 
-After conducting feature engineering, the decision tree model achieved AUC of 94.6%, precision of 91.4%, recall of 91%, f1-score of 91.2%, and accuracy of 97%, on the test set. The random forest modestly outperformed the decision tree model.	
+After conducting feature engineering, the random forest model achieved AUC of 94.6%, precision of 91.4%, recall of 91%, f1-score of 91.2%, and accuracy of 97%, on the test set. The random forest modestly outperformed the decision tree model.	
 
 
 ## Conclusion
