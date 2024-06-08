@@ -1,8 +1,8 @@
-### Understand the business scenario and problem
+## Understand the business scenario and problem
 
 The HR department at Salifort Motors seeks to improve employee satisfaction and reduce turnover. They have collected employee data but need guidance on how to utilize it. The mission is to analyze this data to identify factors contributing to employee departures and build a predictive model for employee turnover. The ultimate goal is to enhance employee retention, which will save the company time and resources in hiring new staff.
 
-### About the HR dataset
+## About the HR dataset
 
 The dataset in this project contains 15,000 rows and 10 columns for the variables listed below. 
 
@@ -22,7 +22,7 @@ Department|The employee's department
 salary|The employee's salary (U.S. dollars)
 
 
-### Summary of model results
+## Summary of model results
 
 **Logistic Regression**
 
@@ -33,7 +33,7 @@ The logistic regression model achieved precision of 80%, recall of 83%, f1-score
 After conducting feature engineering, the decision tree model achieved AUC of 94.6%, precision of 91.4%, recall of 91%, f1-score of 91.2%, and accuracy of 97%, on the test set. The random forest modestly outperformed the decision tree model.	
 
 
-### Conclusion
+## Conclusion
 The models and the feature importances confirm that employees at the company are overworked.
 To retain employees, the following recommendations could be presented:
 - Cap the number of projects that employees can work on.
