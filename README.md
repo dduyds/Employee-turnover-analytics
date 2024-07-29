@@ -40,4 +40,4 @@ To retain employees, the following recommendations could be presented:
 - Consider promoting employees who have been with the company for at least four years, or investigate further why these employees are dissatisfied.
 - Either reward employees for working longer hours or don't require them to do so.
 - Inform employees about the company's overtime pay policies and clarify expectations around workload and time off.
-- Hold company-wide and team discussions to understand and address the work culture. Turnover-Analytics
+- Hold company-wide and team discussions to understand and address the work culture.
